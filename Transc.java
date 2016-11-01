@@ -21,8 +21,8 @@ public class Transc{
                 HashMap<String, Integer> transc12)
   {
     this.transc9 = transc9;
-    this.transc10 = trancs10;
-    this.transc11 = trancs11;
+    this.transc10 = transc10;
+    this.transc11 = transc11;
     this.transc12 = transc12;
   }
   
